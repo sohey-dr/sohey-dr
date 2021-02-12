@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 My name is Sohei Hashimoto.  
 I started writing programs mainly in 2019.  
-I will continue to write it and become the best engineer I can be.  
+I will continue to write it and become the best engineer I can be💪
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=sohey-dr&count_private=true&show_icons=true" />
