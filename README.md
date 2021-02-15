@@ -18,6 +18,7 @@ My name is Sohei Hashimoto.
 I started writing programs mainly in 2019.  
 I want to be exposed to a wide and deep range of technologies.  
 I will continue to write it and become the best engineer I can be💪
+
 I work for a company in Okinawa and another company in Osaka.
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
