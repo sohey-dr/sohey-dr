@@ -22,7 +22,7 @@ I will continue to write it and become the best engineer I can be💪
 I work for a company in Okinawa and another company in Osaka.
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=sohey-dr&count_private=true&show_icons=true" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=sohey-dr&count_private=true&show_icons=true&include_all_commits=true" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohey-dr&layout=compact" />
