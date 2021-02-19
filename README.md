@@ -14,8 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-My name is Sohei Hashimoto.  
-I started writing programs mainly in 2019.  
+My name is Sohei Hashimoto.   
 I want to be exposed to a wide and deep range of technologies.  
 I will continue to write it and become the best engineer I can be💪
 
