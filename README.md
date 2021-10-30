@@ -19,7 +19,7 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api?username=sohey-dr&count_private=true&show_icons=true" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohey-dr&layout=compact&langs_count=5" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohey-dr&layout=compact&langs_count=6" />
 </a>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=sohey-dr&title=MultiLanguage,Commit,Issues,PullRequest,Repository,Star )](https://github.com/ryo-ma/github-profile-trophy)
