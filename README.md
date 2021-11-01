@@ -22,4 +22,4 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohey-dr&layout=compact&langs_count=7" />
 </a>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=sohey-dr&title=MultiLanguage,Commit,Issues,PullRequest,Repository,Star )](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=sohey-dr&title=MultiLanguage,Commit,Issues,PullRequest,Repository,Star,Followers )](https://github.com/ryo-ma/github-profile-trophy)
