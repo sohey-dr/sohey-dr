@@ -22,4 +22,6 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohey-dr&layout=compact&langs_count=6" width="40%" />
 </a>
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sohey-dr&theme=graywhite&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j)](https://git.io/streak-stats)
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=sohey-dr&title=MultiLanguage,Commit,Issues,PullRequest,Repository,Star,Followers )](https://github.com/ryo-ma/github-profile-trophy)
